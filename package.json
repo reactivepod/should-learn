@@ -1,0 +1,24 @@
+{
+  "name": "what-programming-language-should-i-learn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reactivepod/should-learn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "http://www.whatprogramminglanguageshouldilearn.com",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "koa-router": "^5.2.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.11.x"
+  }
+}
